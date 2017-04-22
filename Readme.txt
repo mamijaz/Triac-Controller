@@ -1,1 +1,0 @@
-Triac Controler To Control AC Power By controlling the firing angele using a micro controller
